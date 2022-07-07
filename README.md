@@ -31,7 +31,7 @@ Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesm
 ###  Tecnologias que estou estudando
 
 <div>
- <p>Hoje me considero um desenvolvedor front end ,porém tenho interesse em aprofundar meus conhecimentos a me tornar um desenvolvedor fullstack por também se interessa pela área do  backEnd.
+ <p>Hoje me considero um desenvolvedor front end ,porém tenho interesse em aprofundar meus conhecimentos a me tornar um desenvolvedor fullstack por também se interessar pela área do  backEnd.
 No momento atual meus estudos estão voltados  a melhorar minhas perfomances em consultas a APIS RestFull,testes unitários,Rxjs, Firebase para desenvolvimento de WebApps,apesar de está trabalhando em projetos pessoais,gostaria de estar a frente de projetos reais ..
 Acredito que só com a mão na massa, trabalhando de fato, é que tudo se concretiza.</p>
  

@@ -4,7 +4,7 @@
 
 **Desenvolvedor Front-end**, gosto de café, música, jogos e sou muito curioso rs ! 🤟
 
-Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesmo?</s> Sempre fui fascinado pelo mundo do desenvolvimento de software e desde de então estudo freneticamente para conquistar meus objetivos. Fiz 1 ano de Estudos desde de que mudei pra SP a convite de meu cunhado que é senior na área..Atualmente continuo estudando rs,mas me sinto pronto e seguro para o mercado de trabalho.Sempre estive no meio da tecnologia e futuramente quero iniciar uma graduaçao na área. !
+Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesmo?</s> Sempre fui fascinado pelo mundo do desenvolvimento de software e desde  então estudo freneticamente para conquistar meus objetivos. Fiz 1 ano de Estudos desde de que mudei pra SP a convite de meu cunhado que é senior na área..Atualmente continuo estudando rs,mas me sinto pronto e seguro para o mercado de trabalho.Sempre estive no meio da tecnologia e futuramente quero iniciar uma graduaçao na área. !
 
 <br />
 

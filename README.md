@@ -6,6 +6,8 @@
 
 Também gosto muito de tecnologia! <s>por essa você não esperava, não é mesmo?</s> Sempre fui fascinado pelo mundo do desenvolvimento de software
 <br />
+Estou sempre em busca de novas oportunidades de aprendizado pessoal e profissional. Atualmente trabalho com projetos pessoais desenvolvidos com HTML5, CSS3, JavaScript, Angular 2+. TypeScript, GIT, Node.js, Bootstrap,
+Sass, ferramenta de prototipagem(figma), entre outras linguagens e técnicas de desenvolvimento.
 
 ###  Tecnologias que estou apto a trabalhar 🚀
 
